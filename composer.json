@@ -1,0 +1,12 @@
+{
+    "name": "angie/les_vues_avec-twig",
+    "authors": [
+        {
+            "name": "Angelique Vannespenne",
+            "email": "angeliquevannespenne@hotmail.fr"
+        }
+    ],
+    "require": {
+        "twig/twig": "^2.10"
+    }
+}
